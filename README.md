@@ -1,2 +1,2 @@
-# Logistic_Regression
+# Logistic Regression
 Implementation of Logistic regression from scratch
